@@ -1,0 +1,25 @@
+.header-web {
+  color: brown;
+  font-size: xx-large;
+  text-align: center;
+  font-weight: bold;
+}
+
+.underlineinheader {
+  text-decoration: underline;
+}
+
+.header-menu {
+  background-color: salmon;
+  padding: 30px;
+  gap: 30px;
+  display: flex;
+  flex-direction: column;
+}
+.header-menu-select {
+  font-size: medium;
+  color: chocolate;
+  gap: 60px;
+  display: flex;
+  justify-content: center;
+}

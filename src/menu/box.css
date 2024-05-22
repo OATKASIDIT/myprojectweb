@@ -1,0 +1,12 @@
+.header-menu-select a {
+  font-size: medium;
+  color: azure;
+  text-align: center;
+  text-decoration: none;
+}
+
+.box {
+  background-color: aliceblue;
+  padding: 15px;
+  border-radius: 20px;
+}

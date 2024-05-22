@@ -1,0 +1,8 @@
+.page3-header {
+  padding: 20px;
+  background-color: white;
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  justify-content: center;
+}
